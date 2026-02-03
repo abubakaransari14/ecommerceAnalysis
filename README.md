@@ -259,18 +259,3 @@ Purpose:
 * Used **fuzzy matching for real‑world dirty data**
 * Created **5+ visual business insights**
 * Identified revenue leaks & loss‑making products
-
----
-
-## 🧠 Why This Project Matters
-
-This project demonstrates:
-
-* Real‑world data cleaning (not toy data)
-* Data validation mindset
-* Business‑first analytics
-* Recruiter‑ready EDA depth
-
-
-
-Say it. I’ll do it.
